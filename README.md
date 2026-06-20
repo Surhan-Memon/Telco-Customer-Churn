@@ -165,13 +165,6 @@ GradientBoostingClassifier()
   - `train_test_split`
   - `classification_report`, `confusion_matrix`, `ConfusionMatrixDisplay`
 
----
-
-## How to Run
-
-1. Upload `WA_Fn-UseC_-Telco-Customer-Churn.csv` to your Google Colab environment
-2. Open the notebook in **Google Colab** or **Jupyter Notebook**
-3. Run all cells in order
 
 ---
 
